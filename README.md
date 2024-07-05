@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshat Gupta</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlEp_KNqAkrlJLyNebiVISdY3ejFuC3Wct5g&s”>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dZX3AduGrY3uJ7qCsx”/></img>
 <p align="left"> <a href="https://twitter.com/anonymous_7973" target="blank"><img src="https://img.shields.io/twitter/follow/anonymous_7973?logo=twitter&style=for-the-badge" alt="anonymous_7973" /></a> </p>
 
 - 🔭 I’m currently working on **Smart Contact Manager**
@@ -28,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat433&show_icons=true&locale=en&layout=compact" alt="akshat433" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat433&show_icons=true&locale=en" alt="akshat433" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat433&" alt="akshat433" /></p>
