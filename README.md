@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Smart Contact Manager**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akshat433](https://github.com/akshat433)
 
