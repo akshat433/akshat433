@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://theaffiliasticnisha.wordpress.com/wp-content/uploads/2021/09/what-is-programming-1.png?w=1024" />
 <p align="left"> <a href="https://twitter.com/anonymous_7973" target="blank"><img src="https://img.shields.io/twitter/follow/anonymous_7973?logo=twitter&style=for-the-badge" alt="anonymous_7973" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Contact Manager**
+
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
